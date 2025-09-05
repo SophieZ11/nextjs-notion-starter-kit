@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Fengfei Zhang Portfolio',
+  domain: 'nextjs-notion-starter-kit.transitivebulls.it',
+  author: 'Fengfei Zhang',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
